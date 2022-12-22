@@ -49,7 +49,7 @@ java script
 
 
 
-# Project Links:
+# Project Screenshots:
 
 ## Home page:
 
@@ -82,6 +82,9 @@ java script
 ![fettle bot](https://user-images.githubusercontent.com/118253184/207557516-7334eb12-3d5c-477d-a7ad-7ee81fead774.png)
 
 ![fettle bot2](https://user-images.githubusercontent.com/118253184/207557519-80cebc71-6243-4b2e-9660-cd0abd96d840.png)
+
+![fun3](https://user-images.githubusercontent.com/118253184/209098302-cd2f62d8-0d5f-4824-b8d6-540e0402a861.png)
+
 
 
 
