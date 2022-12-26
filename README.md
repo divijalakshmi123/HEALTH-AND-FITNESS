@@ -1,6 +1,6 @@
 # hii...This is P.Divija Lakshmi,Mecs final year in ssr degree college..Here is about my mscloud project details:
 
-# Proejct Name: Fettle-(Health and Fitness)
+# Project Name: Fettle-(Health and Fitness)
 
 # Abstract:
 
